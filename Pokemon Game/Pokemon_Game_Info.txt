@@ -1,0 +1,10 @@
+Pokemon Game
+A text-based game written in Java that simulates the popular nintendo game Pokemon. 
+The code starts off with asking what the player's name is and give you a starter pokemon.
+Once chosen, a display menu of the players health, money, potions, pokeballs and pokemon are shown.
+A map is provided below and the user is given options to go in either direction, moving them through
+the map.
+They will encounter random pokemon, hospital spots, and shops (however these things are hidden until
+they go through the map).
+
+This code was written by Stephanie Park, Megan Kang, Lizeth Valdovinos
